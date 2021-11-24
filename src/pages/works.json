@@ -22,6 +22,13 @@
             "tags":[ "Flask","SQL","Google Cloud Platform" ],
             "cover":"https://raw.githubusercontent.com/Ashimoon12138/Personal-Web/main/Images/wheretogo.png",
             "id":3
+        },
+        {
+            "title":"More things to be added soon...",
+            "brief":"Practice and accumulation are the most important things in learning in a new field!",
+            "tags":[ "Good Morning","Good Afternoon","and","Good evening!" ],
+            "cover":"https://raw.githubusercontent.com/yuehaoshi/my_web/main/Images/IMG_2674.JPG",
+            "id":4
         }
     ]
 }

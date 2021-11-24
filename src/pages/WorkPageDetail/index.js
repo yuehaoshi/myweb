@@ -126,8 +126,8 @@ export default () =>{
         <div className={ styles.box }>
             <div className={ styles.title }>
                <h1>More is comming...</h1>
-               <p>Some future day</p>
-               <p>Test1</p>
+               <p>Some day in the future :D</p>
+               <p>Have a nice day!🌻</p>
             </div>
             <section className={ styles.content }>
             </section>
