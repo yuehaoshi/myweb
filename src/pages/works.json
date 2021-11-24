@@ -1,0 +1,27 @@
+{
+    "code":200,
+    "msg": "Successful Request!",
+    "data": [
+        {
+            "title":"Solar Energy Visualization",
+            "brief":"An educational and instructional site for solar energy explanation, mapping and application.",
+            "tags":[ "Python","Plotly","Colormap","Matplotlib","React" ],
+            "cover":"https://raw.githubusercontent.com/Ashimoon12138/Personal-Web/main/Images/Picture1.png",
+            "id":1
+        },
+        {
+            "title":"Movie Recommendation System",
+            "brief":"Selecting similar directors, cast, genres and duration in database compared to user's input.",
+            "tags":[ "Pandas","NLP","Sklearn","React" ],
+            "cover":"https://raw.githubusercontent.com/Ashimoon12138/Personal-Web/main/Images/Screen%20Shot%202021-11-23%20at%2021.18.35.png",
+            "id":2
+        },
+        {
+            "title":"Travel Destination Planner",
+            "brief":"An engine for finding the best tourist destination from users's choice",
+            "tags":[ "Flask","SQL","Google Cloud Platform" ],
+            "cover":"https://raw.githubusercontent.com/Ashimoon12138/Personal-Web/main/Images/wheretogo.png",
+            "id":3
+        }
+    ]
+}
