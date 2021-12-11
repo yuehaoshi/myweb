@@ -6,28 +6,28 @@
             "title":"Solar Energy Visualization",
             "brief":"An educational and instructional site for solar energy explanation, mapping and application.",
             "tags":[ "Python","Plotly","Colormap","Matplotlib","React" ],
-            "cover":"https://raw.githubusercontent.com/yuehaoshi/myweb/gh-pages/Pics/SolarVis%20Project/SolarVis5.png",
+            "cover":"https://raw.githubusercontent.com/yuehaoshi/my-Files/main/WebPics/Solar%20Visualization%20Project/SolarVis5.png",
             "id":1
         },
         {
             "title":"Movie Recommendation System",
             "brief":"Selecting similar directors, cast, genres and duration in database compared to user's input.",
             "tags":[ "Pandas","NLP","Sklearn","React" ],
-            "cover":"https://raw.githubusercontent.com/yuehaoshi/myweb/gh-pages/Pics/Movie%20Recommendation%20Project/MovieRec4.png",
+            "cover":"https://raw.githubusercontent.com/yuehaoshi/my-Files/main/WebPics/Movie%20Recommendation%20Project/MovieRec4.png",
             "id":2
         },
         {
             "title":"Travel Destination Planner",
             "brief":"An engine for finding the best tourist destination from users's choice",
             "tags":[ "Flask","SQL","Google Cloud Platform" ],
-            "cover":"https://raw.githubusercontent.com/yuehaoshi/myweb/gh-pages/Pics/Where%20To%20Go%20Project/WhereToGo1.png",
+            "cover":"https://raw.githubusercontent.com/yuehaoshi/my-Files/main/WebPics/WhereToGo%20Project/WhereToGo1.png",
             "id":3
         },
         {
             "title":"More things to be added soon...",
             "brief":"Practice and accumulation are the most important things in learning in a new field!",
             "tags":[ "Good Morning","Good Afternoon","and","Good evening!" ],
-            "cover":"https://raw.githubusercontent.com/yuehaoshi/myweb/gh-pages/Pics/Web1.jpeg",
+            "cover":"https://raw.githubusercontent.com/yuehaoshi/my-Files/main/WebPics/Web1.jpeg",
             "id":4
         }
     ]
